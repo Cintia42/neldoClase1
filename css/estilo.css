@@ -1,0 +1,32 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    background-color: #EEF7FF;
+}
+ header{
+     background-color: #4d869c;
+     color: #FFF;
+ }
+ nav{
+     background-color: #7ab2b2;
+     color: #FFF;
+     width: 100%;
+ }
+     nav ul {
+         list-style: none;
+     }
+     nav ul li:hover{
+         background-color: #4d869c;
+     }
+
+     nav ul li a{
+
+        text-decoration: none;
+        color #FFF;
+        padding: 10px;
+     }
+ 
+ p{
+      font-family: "Playwrite DE Grund", cursive;
+        }
+    
+     
